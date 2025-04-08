@@ -1,0 +1,17 @@
+# 🛰️ Real-Time Location-Based Alert System
+
+This web-based system uses geolocation to track the user's live position and alert them upon entering predefined unsafe zones.
+
+## 💡 Features
+- Real-time tracking using browser geolocation API
+- Geofencing with multiple unsafe zone detection
+- Easy to customize alert zones
+- Minimalistic design for demonstration
+
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript (No frameworks)
+
+## 🚀 How to Run
+1. Download or clone this repository.
+2. Open `index.html` in a browser.
+3. Allow location access and see alerts based on your location.
